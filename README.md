@@ -43,6 +43,9 @@ You can try the console app directly in your Web browser here:
 Click Run to start the generator
   
 ![image](https://github.com/IvanVakov/ImageGenerationProject/assets/119103300/bf74a3c5-3885-419c-b36f-dbd4af1284fa)
+  
+![image](https://github.com/IvanVakov/ImageGenerationProject/assets/119103300/db8d03fb-8637-4f74-ae34-b10625abfda1)
+
 
 
 
